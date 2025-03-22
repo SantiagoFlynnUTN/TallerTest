@@ -1,6 +1,6 @@
-# Login App with Kotlin Coroutines
+# Login App 
 
-This is a simple Android app that demonstrates a login process using Kotlin coroutines.
+This is a simple Android app code challenge for Taller
 
 ## Features
 
